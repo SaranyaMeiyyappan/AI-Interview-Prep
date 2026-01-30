@@ -11,7 +11,9 @@ $$\huge\color{red}{\textbf Interview Prep}$$
 
 > [!IMPORTANT]
 > Large Language Models (LLMs) are AI systems trained on very large amounts of text data to understand and generate human-like language.
+> 
 > From a backend perspective, an LLM works as a text-in, text-out service. It predicts the most probable next tokens based on context, which allows it to answer questions, summarize text, explain errors, or generate structured responses.
+> 
 > As application developers, we typically consume LLMs via APIs, rather than building or training them ourselves.
 > 
 > **Examples of popular LLM providers include:**
